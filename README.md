@@ -1,5 +1,7 @@
 # NotesApp
-📝 **Java Notes App**  
+
+📝 **Java Notes App** 
+
 📌 **Objective**  
 
 A simple console-based Notes Application built in Java using Eclipse IDE.  
@@ -77,22 +79,22 @@ Welcome to Java Notes App
 2. Add a note
 3. Delete a note
 4. Search notes
-5. Exit
-Choose an option: 2
-Enter your note (single line). Press Enter to save:
-Buy milk
-Note saved.
+5. Exit  
+Choose an option: 2  
+Enter your note (single line). Press Enter to save:  
+Buy milk  
+Note saved.  
 
 --- Notes Menu ---
 1. List notes
 2. Add a note
 3. Delete a note
 4. Search notes
-5. Exit
-Choose an option: 1
+5. Exit  
+Choose an option: 1  
 
---- Your Notes ---
-1. Buy milk
+--- Your Notes ---  
+1. Buy milk  
 
 ---
 
